@@ -16,14 +16,14 @@ allprojects {
     }
 }
 
-### Step 2. Add the dependency:
+#### Step 2. Add the dependency:
 
 dependencies {
     implementation 'com.github.syedzada077:maxtext:1.0.0'
 }
 
 
-### To apply custom fonts to TextViews in your application, follow the steps below:
+#### To apply custom fonts to TextViews in your application, follow the steps below:
 
 Initialize MaxText in your activity or fragment
 MaxText.applyFont(context, textView, R.font.your_custom_font);
