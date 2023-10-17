@@ -33,3 +33,6 @@ Here's an example of how to apply a custom font to a TextView:
 TextView textView = findViewById(R.id.textView);
 MaxText.applyFont(this, textView, R.font.custom_font_1);
 
+
+[![](https://jitpack.io/v/syedzada077/maxtext.svg)](https://jitpack.io/#syedzada077/maxtext)
+
